@@ -1,0 +1,10 @@
+[package]
+name = "jf_df"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ahash = "0.8"
+rayon = "1.10"
+dashmap = "5.5"
+memmap2 = "0.9"
